@@ -1,0 +1,36 @@
+body {
+  min-height: 2500px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e0e0e0;
+}
+
+#about {
+  background-color: #eeeeee;
+}
+
+.text1 {
+  text-align: justify;
+}
+
+#projects {
+  background-color: #e0e0e0;
+}
+
+.row {
+  justify-content: center;
+}
+
+#certificates {
+  background-color: #eeeeee;
+}
+
+#contact {
+  background-color: #e0e0e0;
+}
+
+section {
+  padding-top: 4rem;
+}
